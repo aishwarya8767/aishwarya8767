@@ -1,86 +1,108 @@
-🌟 Aishwarya Mamidwar
-🚀 Full Stack Developer | MERN | Python | PHP | React | Problem Solver
-👋 Hello World!
+<h1 align="center"><b>Aishwarya Mamidwar</b></h1>
 
-I’m Aishwarya Mamidwar, a passionate Full Stack Developer who loves building scalable applications, smart backend systems, and modern UI experiences. I enjoy turning ideas into real working products — clean code, optimized logic, and beautiful interfaces.
+<p align="center">
+  <span style="font-size:22px;">
+    <b><span style="color:#ff4d79;">Full Stack Developer</span> | MERN | React | Python | PHP</b>
+  </span>
+</p>
 
-🧑‍💻 About Me
+---
 
-🎓 BBA-CA Graduate | Full Stack Developer
+## ✨ <b>About Me</b>
 
-💼 Experienced in Frontend + Backend
+🌱 *"Creating digital experiences that feel simple, modern, and meaningful."*
 
-🌐 I build modern, responsive & user-focused web applications
+I’m a passionate **Full Stack Developer** who loves building clean UI, powerful backend logic, and user-focused products.  
+Always learning, always improving.
 
-⚡ Worked on multiple real-world projects across MERN, PHP, and Python
+---
 
-🧠 Strong problem-solving mindset + clean architecture approach
-
-🎨 Love creating UI that feels simple, fast, and delightful
-
-📂 Highlighted Projects
-
-💇‍♀️ Beauty Parlour Management System (BPMS) — PHP + MySQL
-
-📦 MERN E-Commerce Store — Cart, Authentication, Admin Panel
-
-🔐 Login/Signup System — Node & Express
-
-📊 Responsive Portfolio Website — React + Tailwind
-
-📈 What I’m Exploring
-
-Advanced MERN patterns
-
-Cloud deployment
-
-API security & JWT
-
-UI performance optimization
-
-🎯 Goals 2025
-
-Build 10+ strong portfolio projects
-
-Contribute to open-source
-
-Grow as a full-stack professional
-
-Master system design basics
-
-🌐 Let’s Connect
-
-📍 Pune, India
-💼 LinkedIn: Add your link
-📧 Email: your email
-
-## 🛠️ Languages & Tools
+## 🚀 <b>Skills & Technologies</b>
 
 <p align="left">
-  
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=css" width="50" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
-  <img src="https://skillicons.dev/icons?i=express" width="50" />
-  <img src="https://skillicons.dev/icons?i=php" width="50" />
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html" width="40"/>
+<img src="https://skillicons.dev/icons?i=css" width="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="40"/>
+<img src="https://skillicons.dev/icons?i=react" width="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
 
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
+<img src="https://skillicons.dev/icons?i=express" width="40"/>
+<img src="https://skillicons.dev/icons?i=php" width="40"/>
+<img src="https://skillicons.dev/icons?i=python" width="40"/>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" width="50" />
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
-  <img src="https://skillicons.dev/icons?i=postman" width="50" />
-  <img src="https://skillicons.dev/icons?i=linux" width="50" />
+<!-- Database -->
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git" width="40"/>
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+<img src="https://skillicons.dev/icons?i=postman" width="40"/>
+<img src="https://skillicons.dev/icons?i=linux" width="40"/>
 
 </p>
+
+---
+
+## 🌟 <b>Fun Skills & What I Love</b>
+
+- 🎨 Designing clean & pleasing UI  
+- ⚡ Turning ideas into working products fast  
+- 🚀 MERN Stack exploration & real-world projects  
+- 🧠 Debugging like a detective  
+- 🗂 Organizing projects like a pro  
+- 🎵 Coding with music & coffee  
+- 🌈 Learning new tools every week  
+
+---
+
+## 📌 <b>Highlighted Projects</b>
+
+- 💇‍♀️ **Beauty Parlour Management System (PHP + MySQL)**  
+- 🛍️ **MERN E-Commerce Store with Admin Panel**  
+- 🔐 **Authentication System – Node + Express + JWT**  
+- 🎨 **Portfolio Website – React + Tailwind**
+
+---
+
+## 📊 <b>GitHub Stats & Activity</b>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aishwarya8767&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya8767&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+### 🌀 <b>GitHub Contribution Graph</b>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwarya8767&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 <b>Connect With Me</b>
+
+<p align="left">
+
+<a href="https://github.com/aishwarya8767" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://www.naukri.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=512&id=rgvqXO2pAW9b&format=png" width="45" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
