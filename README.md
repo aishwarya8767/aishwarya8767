@@ -3,10 +3,7 @@
 <p align="center">
   <span style="font-size:22px;">
     <b>
-      <span style="color:#ff4d79;">
-        Full Stack Developer
-      </span> 
-      | MERN | React | Python | PHP
+      <span style="color:#ff4d79;">Full Stack Developer</span> | MERN | React | Python | PHP
     </b>
   </span>
 </p>
@@ -14,87 +11,107 @@
 ---
 
 <!-- ABOUT ME -->
-## <h2 align="center">✨ <b>About Me</b></h2>
+<h2 align="center">✨ <b>About Me</b></h2>
+
+<p align="center">
+🎓 <b>BBA-CA Graduate</b> | Pursuing <b>PGDM</b><br>
+💡 Passionate about building clean, modern, user-first digital experiences.<br>
+📘 I enjoy solving problems, designing beautiful UIs, and creating real impact through code.
+</p>
 
 <p align="center"><i>
 🌱 "Creating digital experiences that feel simple, modern, and meaningful."
 </i></p>
 
+---
+
+<!-- SKILLS -->
+<h2 align="center">🚀 <b>Skills & Technologies</b></h2>
+
 <p align="center">
-I’m a passionate <b>Full Stack Developer</b> who loves building clean UI, powerful backend logic,  
-and user-focused digital products.  
-Always learning, always improving.  
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,nodejs,express,php,python,mysql,mongodb,git,github,vscode,postman,linux" />
 </p>
 
 ---
 
-## <h2 align="center">🚀 <b>Skills & Technologies</b></h2>
+<!-- FUN SKILLS -->
+<h2 align="center">🌟 <b>Fun Skills & What I Love</b></h2>
 
 <p align="center">
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html" width="40"/>
-<img src="https://skillicons.dev/icons?i=css" width="40"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="40"/>
-<img src="https://skillicons.dev/icons?i=react" width="40"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
+<span style="display:inline-block; border:2px solid #a855f7; border-radius:50px; padding:10px 20px; margin:6px; color:#c084fc; font-weight:600;">
+🎨 Designing clean & aesthetic UI
+</span>
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
-<img src="https://skillicons.dev/icons?i=express" width="40"/>
-<img src="https://skillicons.dev/icons?i=php" width="40"/>
-<img src="https://skillicons.dev/icons?i=python" width="40"/>
+<span style="display:inline-block; border:2px solid #a855f7; border-radius:50px; padding:10px 20px; margin:6px; color:#c084fc; font-weight:600;">
+⚡ Turning ideas into working products fast
+</span>
 
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
+<span style="display:inline-block; border:2px solid #a855f7; border-radius:50px; padding:10px 20px; margin:6px; color:#c084fc; font-weight:600;">
+🚀 MERN Stack exploration
+</span>
 
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git" width="40"/>
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="40"/>
-<img src="https://skillicons.dev/icons?i=postman" width="40"/>
-<img src="https://skillicons.dev/icons?i=linux" width="40"/>
+<span style="display:inline-block; border:2px solid #a855f7; border-radius:50px; padding:10px 20px; margin:6px; color:#c084fc; font-weight:600;">
+🧠 Debugging like a detective
+</span>
 
-</p>
+<span style="display:inline-block; border:2px solid #a855f7; border-radius:50px; padding:10px 20px; margin:6px; color:#c084fc; font-weight:600;">
+🎵 Coding with music & coffee
+</span>
 
----
-
-## <h2 align="center">🌟 <b>Fun Skills & What I Love</b></h2>
-
-<p align="center">
-
-- 🎨 Designing clean & aesthetic UI  
-- ⚡ Turning ideas into working products fast  
-- 🚀 MERN Stack exploration & real-world apps  
-- 🧠 Debugging like a detective  
-- 📁 Organizing projects with perfection  
-- 🎵 Coding with music & coffee  
-- 🌈 Learning new tools every week  
+<span style="display:inline-block; border:2px solid #a855f7; border-radius:50px; padding:10px 20px; margin:6px; color:#c084fc; font-weight:600;">
+🌈 Learning new tools every week
+</span>
 
 </p>
 
 ---
 
-## <h2 align="center">📌 <b>Highlighted Projects</b></h2>
+<!-- PROJECTS GRID -->
+<h2 align="center">📌 <b>Highlighted Projects</b></h2>
 
-<p align="center">
+<div align="center">
 
-💇‍♀️ <b>Beauty Parlour Management System (PHP + MySQL)</b>  
-🛍️ <b>MERN E-Commerce Store with Admin Panel</b>  
-🔐 <b>Authentication System – Node + Express + JWT</b>  
-🎨 <b>Portfolio Website – React + Tailwind</b>  
+<table>
+<tr>
 
-</p>
+<td align="center" width="45%" style="background:#ffe4e6; padding:20px; border-radius:12px;">
+<b>💇‍♀️ Beauty Parlour Management System</b><br>
+<span>PHP + MySQL</span>
+</td>
+
+<td align="center" width="45%" style="background:#e0f2fe; padding:20px; border-radius:12px;">
+<b>🛍️ MERN E-Commerce Store</b><br>
+<span>React + Node + MongoDB</span>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="45%" style="background:#ede9fe; padding:20px; border-radius:12px; margin-top:12px;">
+<b>🔐 Authentication System</b><br>
+<span>Node + Express + JWT</span>
+</td>
+
+<td align="center" width="45%" style="background:#fef3c7; padding:20px; border-radius:12px; margin-top:12px;">
+<b>🎨 Portfolio Website</b><br>
+<span>React + Tailwind</span>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## <h2 align="center">📊 <b>GitHub Stats & Activity</b></h2>
+<!-- GITHUB STATS -->
+<h2 align="center">📊 <b>GitHub Stats & Activity</b></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishwarya8767&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya8767&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aishwarya8767&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aishwarya8767&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <h3 align="center">🌀 <b>GitHub Contribution Graph</b></h3>
@@ -105,30 +122,33 @@ Always learning, always improving.
 
 ---
 
-## <h2 align="center">🌐 <b>Connect With Me</b></h2>
+<!-- CONNECT -->
+<h2 align="center">🌐 <b>Connect With Me</b></h2>
 
 <p align="center">
 
-<a href="https://github.com/aishwarya8767" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
+<a href="https://github.com/aishwarya8767" target="_blank" style="margin:10px;">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/><br>
+  <b>GitHub</b>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank" style="margin:10px;">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br>
+  <b>LinkedIn</b>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" />
+<a href="mailto:yourmail@gmail.com" style="margin:10px;">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45"/><br>
+  <b>Email</b>
 </a>
 
-<a href="https://www.naukri.com/" target="_blank">
-  <img src="https://img.icons8.com/?size=512&id=rgvqXO2pAW9b&format=png" width="45" />
+<a href="https://www.naukri.com/" target="_blank" style="margin:10px;">
+  <img src="https://img.icons8.com/?size=512&id=rgvqXO2pAW9b&format=png" width="45"/><br>
+  <b>Naukri</b>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">⭐ Thank you for visiting my profile!  
-Your time means a lot 💙</h3>
-
+<h3 align="center">⭐ Thank you for visiting my profile!</h3>
