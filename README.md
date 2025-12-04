@@ -14,7 +14,7 @@
 <h2 align="center">✨ <b>About Me</b></h2>
 
 <p align="center">
-🎓 <b>BBA-CA Graduate</b> | Pursuing <b>PGDM</b><br>
+🎓 <b>BSC.CS Graduate</b><br>
 💡 Passionate about building clean, modern, user-first digital experiences.<br>
 📘 I enjoy solving problems, designing beautiful UIs, and creating real impact through code.
 </p>
@@ -34,8 +34,8 @@
 
 ---
 
-<!-- FUN SKILLS -->
-<h2 align="center">🌟 <b>Fun Skills & What I Love</b></h2>
+<!--  SKILLS -->
+<h2 align="center">🌟 <b>Skills & What I Love</b></h2>
 
 <p align="center">
 
@@ -90,13 +90,13 @@
 <tr>
 
 <td align="center" width="45%" style="background:#ede9fe; padding:20px; border-radius:12px; margin-top:12px;">
-### 🩺 Surgical Cotton E-Commerce Website (Python)
+<b> 🩺 Surgical Cotton E-Commerce Website </b><br>
 <span>frontend + Backend</span>
 </td>
 
 <td align="center" width="45%" style="background:#fef3c7; padding:20px; border-radius:12px; margin-top:12px;">
 <b>🎨 Portfolio Website</b><br>
-<span>React + Tailwind</span>
+<span>Frontend </span>
 </td>
 
 </tr>
