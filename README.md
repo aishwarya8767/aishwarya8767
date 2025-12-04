@@ -127,7 +127,7 @@
 ## 🔗 Connect With Me  
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aishwarya8767" target="_blank">
+<a href="https://www.linkedin.com/in/aishwarya-mamidwar/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin"/>
 </a>&nbsp;&nbsp;
 
@@ -135,7 +135,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
 </a>&nbsp;&nbsp;
 
-<a href="mailto:aishwarmamidwar8767@gmail.com">
+<a href="mailto:aishwarmamidwar23@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
 
