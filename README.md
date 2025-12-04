@@ -81,8 +81,8 @@
 </td>
 
 <td align="center" width="45%" style="background:#e0f2fe; padding:20px; border-radius:12px;">
-<b>🛍️ MERN E-Commerce Store</b><br>
-<span>React + Node + MongoDB</span>
+<b> 🏥 Hospital Management System (HMS)</b><br>
+<span>HTML + CSS + JS</span>
 </td>
 
 </tr>
@@ -90,8 +90,8 @@
 <tr>
 
 <td align="center" width="45%" style="background:#ede9fe; padding:20px; border-radius:12px; margin-top:12px;">
-<b>🔐 Authentication System</b><br>
-<span>Node + Express + JWT</span>
+### 🩺 Surgical Cotton E-Commerce Website (Python)
+<span>frontend + Backend</span>
 </td>
 
 <td align="center" width="45%" style="background:#fef3c7; padding:20px; border-radius:12px; margin-top:12px;">
@@ -122,33 +122,35 @@
 
 ---
 
-<!-- CONNECT -->
-<h2 align="center">🌐 <b>Connect With Me</b></h2>
+---
 
-<p align="center">
+## 🔗 Connect With Me  
+<div align="center">
 
-<a href="https://github.com/aishwarya8767" target="_blank" style="margin:10px;">
-  <img src="https://skillicons.dev/icons?i=github" width="45"/><br>
-  <b>GitHub</b>
+<a href="https://www.linkedin.com/in/aishwarya8767" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/aishwarya8767" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
+</a>&nbsp;&nbsp;
+
+<a href="mailto:aishwarmamidwar8767@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank" style="margin:10px;">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br>
-  <b>LinkedIn</b>
-</a>
-
-<a href="mailto:yourmail@gmail.com" style="margin:10px;">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45"/><br>
-  <b>Email</b>
-</a>
-
-<a href="https://www.naukri.com/" target="_blank" style="margin:10px;">
-  <img src="https://img.icons8.com/?size=512&id=rgvqXO2pAW9b&format=png" width="45"/><br>
-  <b>Naukri</b>
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">⭐ Thank you for visiting my profile!</h3>
+## 🌟 Thank You!
+<div align="center">
+
+✨ *Thank you for visiting my GitHub profile!*  
+💖 *Your time means a lot — feel free to explore, collaborate, or just drop a hello!*  
+🚀 *Let’s build something amazing together!*  
+
+</div>
+
+---
+
